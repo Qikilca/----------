@@ -71,7 +71,12 @@
   - 怠惰になるので注意
   - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
-拡張機能一覧
+- GitHub Markdown Preview
+  - GitHubで表示されるマークダウンのプレビューを表示する拡張機能
+  - ドキュメント整備にとても役立つパッケージで色々入ってる
+  - [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+
+## 拡張機能一覧
 
 |            拡張機能             |                          説明                           |
 | :-----------------------------: | :-----------------------------------------------------: |
