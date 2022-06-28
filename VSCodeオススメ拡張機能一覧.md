@@ -69,6 +69,7 @@
   - 利用するのに申請とか必要だけどその分利便性は段違い
   - これ書いてる時もすごく働いてくれてる
   - 怠惰になるので注意
+  - **現在は有料になったが、GitHubEducationに登録すれば無料で使えたりする**
   - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 - GitHub Markdown Preview
@@ -90,3 +91,4 @@
 |          markdownlint           |    マークダウンの書き方の規則をチェックする拡張機能     |
 |       Markdown All in One       |   マークダウンに関するあれこれを一括で入れる優れもの    |
 |         GitHub Copilot          |    便利の象徴みたいなやべーやつ、怠惰になるので注意     |
+| GitHub Markdown Preview        |   GitHubで表示されるマークダウンのプレビューを表示する拡張機能 |
