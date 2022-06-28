@@ -50,6 +50,13 @@
   - Windows側でインストールしている拡張機能とWSL側でインストールしている拡張機能は別なので注意
   - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 
+## ターミナル関係
+
+- PowerShell
+  - 実はよくわかってないが入れている
+  - 恐らくだけどPowerShellのScriptが使えるようになる
+  - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+
 ## その他
 
 個人的に気に入っているもの。雑多なことになると思う。
