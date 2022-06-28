@@ -86,16 +86,17 @@
 
 ## 拡張機能一覧
 
-|            拡張機能             |                          説明                           |
-| :-----------------------------: | :-----------------------------------------------------: |
-|             zenkaku             |         全角と半角のスペースを強調する拡張機能          |
-|           Live Server           |  htmlやcss、jsを仮想ブラウザで実行して動作を確認出来る  |
-|         indent-rainbow          |         インデントを色分けして表示する拡張機能          |
-| GitHub Pull Requests and Issues |         GitHubに接続するならほぼ必須な拡張機能          |
-|            Git Graph            | SourceTreeのようなGitのコミットグラフを表示する拡張機能 |
-|             GitLens             |    誰がどこをコミットしたか見ることのできる拡張機能     |
-|          Remote - WSL           |       wsl内でVSCodeを使用できるようにする拡張機能       |
-|          markdownlint           |    マークダウンの書き方の規則をチェックする拡張機能     |
-|       Markdown All in One       |   マークダウンに関するあれこれを一括で入れる優れもの    |
-|         GitHub Copilot          |    便利の象徴みたいなやべーやつ、怠惰になるので注意     |
-| GitHub Markdown Preview        |   GitHubで表示されるマークダウンのプレビューを表示する拡張機能 |
+|            拡張機能             |                             説明                             |
+| :-----------------------------: | :----------------------------------------------------------: |
+|             zenkaku             |            全角と半角のスペースを強調する拡張機能            |
+|           Live Server           |    htmlやcss、jsを仮想ブラウザで実行して動作を確認出来る     |
+|         indent-rainbow          |            インデントを色分けして表示する拡張機能            |
+| GitHub Pull Requests and Issues |            GitHubに接続するならほぼ必須な拡張機能            |
+|            Git Graph            |   SourceTreeのようなGitのコミットグラフを表示する拡張機能    |
+|             GitLens             |       誰がどこをコミットしたか見ることのできる拡張機能       |
+|          Remote - WSL           |         wsl内でVSCodeを使用できるようにする拡張機能          |
+|           PowerShell            |       恐らくだけどPowerShellのScriptが使えるようになる       |
+|          markdownlint           |       マークダウンの書き方の規則をチェックする拡張機能       |
+|       Markdown All in One       |      マークダウンに関するあれこれを一括で入れる優れもの      |
+|         GitHub Copilot          |       便利の象徴みたいなやべーやつ、怠惰になるので注意       |
+|     GitHub Markdown Preview     | GitHubで表示されるマークダウンのプレビューを表示する拡張機能 |
