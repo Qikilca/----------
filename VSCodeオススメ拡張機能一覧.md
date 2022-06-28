@@ -64,9 +64,9 @@
   - ドキュメント系は綺麗に書きたいので導入してる
   - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-- ~~GitHub Copilot~~ **2022/6/21現在プレビュー版が終了し、有料版のみになった**
-  - ~~便利の象徴みたいなやべーやつ~~
-  - ~~利用するのに申請とか必要だけどその分利便性は段違い~~
+- GitHub Copilot **2022/6/21現在プレビュー版が終了し、有料版になった**
+  - 便利の象徴みたいなやべーやつ
+  - 利用するのに申請とか必要だけどその分利便性は段違い
   - これ書いてる時もすごく働いてくれてる
   - 怠惰になるので注意
   - **現在は有料になったが、GitHubEducationに登録すれば無料で使えたりする**
