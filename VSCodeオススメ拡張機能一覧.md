@@ -84,6 +84,17 @@
   - ドキュメント整備にとても役立つパッケージで色々入ってる
   - [GitHub Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 
+- Remote - Containers
+  - Dockerのコンテナをフル活用するための拡張機能
+  - DockerDesktopがインストールされていること前提なので注意
+  - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+- Marp for VS Code
+  - markdownでスライド（パワポのようなもの）を書くことが出来るようになる拡張機能
+  - PDFへの出力ができ、プレビューもVSCode内で出来る。
+  - 世界のドキュメントが全部markdownになればいいと思ってる（過激派）
+  - [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+
 ## 拡張機能一覧
 
 |            拡張機能             |                             説明                             |
@@ -100,3 +111,14 @@
 |       Markdown All in One       |      マークダウンに関するあれこれを一括で入れる優れもの      |
 |         GitHub Copilot          |       便利の象徴みたいなやべーやつ、怠惰になるので注意       |
 |     GitHub Markdown Preview     | GitHubで表示されるマークダウンのプレビューを表示する拡張機能 |
+|       Remote - Containers       |         Dockerのコンテナをフル活用するための拡張機能         |
+|        Marp for VS Code         |              markdownでスライドをかける拡張機能              |
+
+
+## 更新履歴
+
+- 2022-\*-\*
+  - 新規作成
+- 2022-07-20
+  - Marp for VS Code 追加
+  - Remote - Containers 追加
