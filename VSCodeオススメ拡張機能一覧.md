@@ -114,7 +114,6 @@
 |       Remote - Containers       |         Dockerのコンテナをフル活用するための拡張機能         |
 |        Marp for VS Code         |              markdownでスライドをかける拡張機能              |
 
-
 ## 更新履歴
 
 - 2022-\*-\*
